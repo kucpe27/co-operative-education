@@ -3,7 +3,7 @@ Co Operative Education Report and Presentation of CPE27
 
 | Name | Place | Materials |
 |------|---------|-----------|
-| Apichan Chaiyutthasat | TakeMeTour |-----------|
-| Aikdanai Sidhikosol <br> Supanut Apikulvanich| Runnables |-----------|
-| Kanitkorn Sujautra | Pronto Tools |-----------|
-| Sarunyou Whang | Thomson Reuters |-----------|
+| Apichan Chaiyutthasat | TakeMeTour |[report]() [slide]()|
+| Aikdanai Sidhikosol <br> Supanut Apikulvanich| Runnables | [report]() [slide]()|
+| Kanitkorn Sujautra | Pronto Tools |[report]() [slide]()|
+| Sarunyou Whang | Thomson Reuters |[report]() [slide]()|
